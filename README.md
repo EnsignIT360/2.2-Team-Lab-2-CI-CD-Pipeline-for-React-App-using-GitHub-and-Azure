@@ -20,3 +20,7 @@ npm run dev
 5. Push this project to the repository's `main` branch. The workflow builds the Vite app and deploys the generated `dist/` directory.
 
 The attached lab guide covers the GitHub Actions/Azure deployment sequence, but its sample application is Express rather than React. This project uses the same deployment flow with a Vite production build.
+
+
+Live Site:
+https://react-rocket-hffcbqfsfba7affa.westus3-01.azurewebsites.net/
